@@ -13,11 +13,11 @@ const postagemJavaScript = document.createElement("div");
 
 postagemJavaScript.innerHTML =
 
-`<h2 class="post-titulo">JavaScript</h2>
+`<h2 class="post-titulo">Estudando JavaScript</h2>
 
 <p class="post-texto">
 
-  JavaScript é uma linguagem de programação
+  JavaScript é uma linguagem de programação. Uma linguagem versátil que possibilita a criação dinâmica front-end.
 
 </p>`
 
