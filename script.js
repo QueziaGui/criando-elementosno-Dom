@@ -16,7 +16,7 @@ postagemJavaScript.innerHTML =
 `<h2 class="post-titulo">Estudando JavaScript</h2>
 
 <p class="post-texto">
-
+Aprender HTML requer prática, prática e mais alguma prática, como qualquer nova habilidade. Sua abordagem ao HTML deve ser como a sua abordagem para aprender uma nova lingua.   
   JavaScript é uma linguagem de programação. Uma linguagem versátil que possibilita a criação dinâmica front-end.
 
 </p>`
